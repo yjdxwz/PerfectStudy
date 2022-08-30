@@ -1,0 +1,17 @@
+- cmd: setValue
+  desc: 输入内容
+  location: //input[@id="kw"]
+  value: 杨祥超
+- cmd: click
+  desc: 点击事件
+  location: //input[@id="su"]
+- cmd: getText
+  desc: 等待，直到页面出现，超时时间默认为30
+  location: //a[contains(.,'商业模式构架魔术师')]
+  timeout: 500
+- cmd: execApi
+  desc: 传入的参数,上面的三个会作为参数，传入getAllData 方法
+  location: getAllData
+  param1: aasd
+  param2: aasd
+  param3: aasd

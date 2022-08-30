@@ -1,0 +1,10 @@
+meta:
+  name: execFirst
+  url: https://www.baidu.com
+  pres:
+  groups:
+    - ref: test1
+    - ref: test2
+
+
+# 这里ref 是引用 yml 文件的

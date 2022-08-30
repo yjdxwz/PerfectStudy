@@ -1,0 +1,19 @@
+2022-06-23 00:15:49,026 - jkjk] - log_requests - line:29 - INFO - rid=H0IU2R start request path=/
+2022-06-23 00:15:49,027 - jkjk] - root - line:43 - INFO - sdfsdfsdf
+2022-06-23 00:15:49,027 - jkjk] - log_requests - line:36 - INFO - rid=H0IU2R completed_in=0.80ms status_code=200
+2022-06-23 00:15:49,072 - jkjk] - log_requests - line:29 - INFO - rid=RKVZXK start request path=/images/icons/gear.png
+2022-06-23 00:15:49,073 - jkjk] - log_requests - line:36 - INFO - rid=RKVZXK completed_in=0.50ms status_code=404
+2022-06-23 00:15:49,176 - jkjk] - log_requests - line:29 - INFO - rid=KJRFGB start request path=/
+2022-06-23 00:15:49,176 - jkjk] - root - line:43 - INFO - sdfsdfsdf
+2022-06-23 00:15:49,176 - jkjk] - log_requests - line:36 - INFO - rid=KJRFGB completed_in=0.34ms status_code=200
+2022-06-23 00:15:49,216 - jkjk] - log_requests - line:29 - INFO - rid=VLL1A1 start request path=/images/icons/gear.png
+2022-06-23 00:15:49,216 - jkjk] - log_requests - line:36 - INFO - rid=VLL1A1 completed_in=0.27ms status_code=404
+2022-06-23 00:15:49,325 - jkjk] - log_requests - line:29 - INFO - rid=IHT967 start request path=/
+2022-06-23 00:15:49,325 - jkjk] - root - line:43 - INFO - sdfsdfsdf
+2022-06-23 00:15:49,326 - jkjk] - log_requests - line:36 - INFO - rid=IHT967 completed_in=0.37ms status_code=200
+2022-06-23 00:15:49,345 - jkjk] - log_requests - line:29 - INFO - rid=E1IMKN start request path=/images/icons/gear.png
+2022-06-23 00:15:49,345 - jkjk] - log_requests - line:36 - INFO - rid=E1IMKN completed_in=0.29ms status_code=404
+2022-06-23 23:06:18,968 - server - shutdown - line:252 - INFO - Shutting down
+2022-06-23 23:06:19,069 - on - shutdown - line:64 - INFO - Waiting for application shutdown.
+2022-06-23 23:06:19,070 - on - shutdown - line:75 - INFO - Application shutdown complete.
+2022-06-23 23:06:19,070 - server - serve - line:85 - INFO - Finished server process [4374]
