@@ -8,6 +8,8 @@ class Mercedes(object):
     def __repr__(self):
         return "Mercedes-Benz"
 
+    def aaa(self):
+        print("Mercedes")
 
 class BMW(object):
     """宝马
@@ -40,6 +42,7 @@ class SimpleCarFactory(object):
 c1 = SimpleCarFactory.product_car('mb')
 c2 = SimpleCarFactory.product_car('bmw')
 print(c1)
+print(c1.aaa())
 print(c2)
 # Mercedes-Benz
 # BMW

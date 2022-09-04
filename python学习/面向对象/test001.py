@@ -23,7 +23,7 @@ class D(A, B, C):
 
     def __init__(self, key):
         A.__init__(self, key)
-        print("log")
+
         B.__init__(self, key)
         self.getLog()
         C.__init__(self, key)
@@ -62,4 +62,3 @@ E("bbbbbb")
 # bbbbbb
 # bbbbbb
 # bbbbbb
-
