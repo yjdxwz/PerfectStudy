@@ -21,3 +21,9 @@
 > python aaa.py
 ## 查看日志
 > aaa_日期.log  与文件名对应
+> 
+> 
+> 
+pip install fastapi -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install "uvicorn[standard]"  -i https://pypi.tuna.tsinghua.edu.cn/simple
+

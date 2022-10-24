@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/nipanbo/Desktop/project/backend/PerfectStudy/python学习/statMode/index002.py", line 7, in func
+    y = num1 / num2
+ZeroDivisionError: division by zero

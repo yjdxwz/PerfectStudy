@@ -1,5 +1,5 @@
 from functools import lru_cache
-
+from stat import *
 # 指定最大缓存数量
 # maxsize None , 没有限制
 # typed:True 不同类型参数分别缓存 f(3) f(3.0)
@@ -10,3 +10,5 @@ from functools import lru_cache
 @lru_cache(maxsize=100,typed=False)
 def factorial(n):
     return n*factorial(n-1) if n else 1
+
+
